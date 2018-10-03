@@ -2,6 +2,9 @@
 include("includes/a.inc.php");
 
 include("includes/headsection.inc.php");
+
+
+/*Test*/
 ?>
 	<!-- HOME SLIDER -->
 	<div class="slider-area">
